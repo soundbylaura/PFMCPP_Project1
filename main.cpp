@@ -143,7 +143,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 #endif
 
 /*
- MAKE SURE YOU ARE NOT ON THE MASTER BRANCH.
+ MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
  Commit your changes by clicking on the Source Control panel on the left,
  entering a message, and click [Commit and push].
