@@ -58,7 +58,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  action 2: the cat stretches
     cat.stretch();
 //  action 3: the cat chases a ball
-    cat.chaseBall
+    cat.chaseBall();
 
 //  2) 
 //  Noun: lightning
@@ -107,12 +107,12 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 //  7)
 //  Noun: slot machine
-//  action 1: the slot machine reels spin
-    slotMachineReels.spin();
-//  action 2: the slot machine reels stop
-    slotMachineReels.stop();
-//  action 3: the slot machine bell rings
-    slotMachineBell.ring();
+//  action 1: the slot machine spins
+    slotMachine.spin();
+//  action 2: the slot machine stops
+    slotMachine.stop();
+//  action 3: the slot machine rings
+    slotMachine.ring();
 
 //  8)
 //  Noun: rice krispies
@@ -124,22 +124,22 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
     riceKrispies.pop();
 
 //  9) 
-//  Noun: 3d printer
-//  action 1: the 3d printer moves along the X axis
-    3dPrinter.moveX();
-//  action 2: the 3d printer auto-levels
-    3dPrinter.autoLevel();
-//  action 3: the 3d printer shuts off
-    3dPrinter.off();
+//  Noun: printer
+//  action 1: the printer moves along the X axis
+    printer.moveX();
+//  action 2: the printer auto-levels
+    printer.autoLevel();
+//  action 3: the printer shuts off
+    printer.off();
 
 //  10)
-//  Noun: programmer
-//  action 1: the programmer writes code
-    programmer.writeCode();
-//  action 2: the programmer fixes their code
-    programmer.fixBug();
-//  action 3: the programmer retires
-    programmer.retire();
+//  Noun: sky colour
+//  action 1: the sky colour brightens 
+    skyColour.getBrightness();
+//  action 2: the sky colour changes
+    skyColour.getHue();
+//  action 3: the sky colour dims
+    skyColour.getAlpha();
 #endif
 
 /*
